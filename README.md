@@ -1,8 +1,9 @@
 ---
 Title: Hurricane Mapper
-Author: John.Fay@duke.edu
+Author: shelby.alexander@duke.edu
 Date: Fall 2025
 ---
+# Forked from https://github.com/ENV859/HurricaneMapper_PY in
 
 # HurricaneMapper_PY
 
